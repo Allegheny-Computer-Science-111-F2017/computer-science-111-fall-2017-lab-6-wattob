@@ -20,3 +20,9 @@ much easier because we had done something similar in the step above. By
 following a similar writing style we were able to randomly choose insertion
 points and use more mutations for steps four and five. This lab has been
 difficult, but a great learning experience.
+
+This lab I was able to learn more about using strings and substrings. I learned
+how to use mutations properly too. Creating the insertion index then adding a
+plus one was confusing at first, but now it is easier to understand through my
+experiences. Overall, this lab has been a fun and enjoyable, but difficult
+assignment.
